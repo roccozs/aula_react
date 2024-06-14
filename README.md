@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 DIFERENTE
+=======
+gfdgkfgjdfkgjdfkgjdkfgjkdfj
+>>>>>>> 8e6397a82a4ddae945a3bc1ec2f53bde085b1bcf
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
